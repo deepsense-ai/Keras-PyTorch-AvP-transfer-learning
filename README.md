@@ -7,7 +7,7 @@
 
 Featured in deepsense.ai's blog post [Keras vs. PyTorch - Alien vs. Predator recognition with transfer learning](https://deepsense.ai/keras-vs-pytorch-alien-vs-predator-recognition-with-transfer-learning), in which we discuss the differences. Code is in two notebooks:
 
-* [Transfer learning with ResNet-50 in Keras](https://github.com/buus2/keras_pytorch_01/blob/master/Keras-Resnet50.ipynb)
+* [Transfer learning with ResNet-50 in Keras](Keras-Resnet50.ipynb)
 * [Transfer learning with ResNet-50 in PyTorch](PyTorch-Resnet50.ipynb)
 
 See also the [upcoming webinar (10 Oct 2018)](https://www.crowdcast.io/e/KerasVersusPyTorch/register), in which we walk trough the code.
