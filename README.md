@@ -10,7 +10,7 @@ Featured in [deepsense.ai](https://deepsense.ai/) blog post [Keras vs. PyTorch -
 
 See also the [upcoming webinar (10 Oct 2018)](https://www.crowdcast.io/e/KerasVersusPyTorch/register), in which we walk trough the code.
 
-For plug&play interactive code, see these Kaggle Kernels:
+For plug&play interactive code, see the [Neptune versions with fancy charts](https://app.neptune.ml/deepsense-ai/Keras-vs-PyTorch) or these Kaggle Kernels:
 
 * [Transfer learning with ResNet-50 in Keras - Kaggle Kernel](https://www.kaggle.com/pmigdal/transfer-learning-with-resnet-50-in-keras)
 * [Transfer learning with ResNet-50 in PyTorch - Kaggle Kernel](https://www.kaggle.com/pmigdal/transfer-learning-with-resnet-50-in-pytorch)
