@@ -1,9 +1,9 @@
-# Keras vs. PyTorch - Alien vs. Predator recognition with transfer learning
+# Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning
 
 ![](images/transfer_learning.png)
 
 
-Featured in [deepsense.ai](https://deepsense.ai/) blog post [Keras vs. PyTorch - Alien vs. Predator recognition with transfer learning](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning), in which we discuss the differences. Code is in two Jupyter Notebooks:
+Featured in [deepsense.ai](https://deepsense.ai/) blog post [Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning), in which we discuss the differences. Code is in two Jupyter Notebooks:
 
 * [Transfer learning with ResNet-50 in Keras](Keras-Resnet50.ipynb)
 * [Transfer learning with ResNet-50 in PyTorch](PyTorch-Resnet50.ipynb)
