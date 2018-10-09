@@ -38,4 +38,9 @@ If you want to run the code, see the requirements:
   * torch==0.4.1
   * torchvision==0.2.1
 
+# Webinar info
 
+* [Link do the webinar (10 Oct 2018, 5 PM CEST)](https://www.crowdcast.io/e/KerasVersusPyTorch/register)
+* [Slides from the webinar](https://docs.google.com/presentation/d/1y6KBgVtvZ26afCbIbCoGZoEdT6-eoUqPc9U4cJ3X1Gw)
+* deepsense.ai's articles about Keras and PyTorch: [article1](https://deepsense.ai/keras-or-pytorch/), [article2](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/)
+* [notebooks in Neptune](https://app.neptune.ml/deepsense-ai/Keras-vs-PyTorch)
