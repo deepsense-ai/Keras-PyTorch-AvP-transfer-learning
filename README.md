@@ -45,7 +45,7 @@ If you want to run the code, see the requirements:
 * deepsense.ai's articles about Keras and PyTorch:
   * [Keras or PyTorch as your first deep learning framework ](https://deepsense.ai/keras-or-pytorch/)
   * [Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/)
-* [notebooks in Neptune](https://app.neptune.ml/deepsense-ai/Keras-vs-PyTorch)
-* workshops:
+* [Notebooks in Neptune](https://app.neptune.ml/deepsense-ai/Keras-vs-PyTorch)
+* Workshops:
   * [open workshops at deepsense.ai's HQ](https://deepsense.ai/machine-learning-and-deep-learning-training/)
   * [on-site workshops](https://deepsense.ai/machine-learning-training/)
